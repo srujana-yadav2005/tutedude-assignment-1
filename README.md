@@ -14,4 +14,4 @@ Python Programming Assignment
    assignment-1.py
 
 #Author
-#srujana yadav
+#srujanayadav
