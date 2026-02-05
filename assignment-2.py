@@ -1,4 +1,5 @@
 #program to find whether the even number is even or odd
+
 num=int(input("Enter a number: "))
 
 if num%2==0:
@@ -6,6 +7,7 @@ if num%2==0:
 else:
     print(num,"is odd number")
 
+#program to find sum of first 50 integers from 1 to 50
 
 total=0
 for i in range(1,51):
